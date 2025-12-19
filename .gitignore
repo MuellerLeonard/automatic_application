@@ -1,0 +1,9 @@
+venv/
+data/Session.vim
+data/tmp
+data/chroma
+data/output.txt
+data/documents_private.json
+src/__pycache__
+src/test.py
+src/test_modules.py

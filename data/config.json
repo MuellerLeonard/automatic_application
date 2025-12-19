@@ -1,0 +1,9 @@
+{
+	"llms":{
+		"grok_api_key": "",
+		"model_name": "grok-3-mini"
+	},
+	"queries":{
+		"honest_query": "Erstelle ein professionelles, kohärentes und wahrheitsgetreues Bewerbungsanschreiben auf Basis der folgenden Informationen: 1 Stellenbeschreibung, 2 Projektliste bestehend aus einzelnen Projektabschnitten, 3 Einleitungen aus früheren Anschreiben zur Tonreferenz, 4 Schlusssaetze aus früheren Anschreiben, 5 Tech Skills als kommagetrennte Liste, 6 Soft Skills als Liste oder kommagetrennt. Verwende Stil, Ton und sprachliche Feinheiten der Einleitungen und Schlusssaetze ohne sie wörtlich zu kopieren. Nutze die Projektliste dynamisch und selektiv, wähle nur relevante Projekte passend zur Stellenbeschreibung und beschreibe deren Relevanz präzise. Binde Tech Skills und Soft Skills sinnvoll und natürlich ein, vermeide reine Aufzählungen. Struktur des Anschreibens: 1 Einleitung, 2 Bezug zur Stelle, 3 Darstellung der relevanten Projekte, 4 Hervorhebung der wichtigsten technischen und persönlichen Stärken, 5 motivierter professioneller Abschluss. Schreibe auf Deutsch, klar, präzise und ohne Floskeln oder Übertreibungen. Zielumfang 250 bis 350 Wörter."
+	}
+}

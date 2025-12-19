@@ -1,0 +1,38 @@
+{
+	"projects":	[
+		{"project_1": ""},	
+		{"project_2": ""},
+		{"project_3": ""},
+		{"project_4": ""}
+	],
+	"ending": [
+		{"ending_1": ""},
+		{"ending_2": ""}
+	],
+	"beginning": [
+	{
+		"beginning_1": ""},
+	{		
+		"beginning_2": ""}
+	],
+	"tech_skills": [
+	{"tech_skill_1": ""},
+	{"tech_skill_2": ""},
+	{"tech_skill_3": ""},
+	{"tech_skill_4": ""},
+	{"tech_skill_5": ""},
+	{"tech_skill_6": ""},
+	{"tech_skill_7": ""},
+	{"tech_skill_8": ""},
+	{"tech_skill_9": ""}
+	],
+	"soft_skills": [
+	{"soft_skills_1": ""},
+	{"soft_skills_2": ""},
+	{"soft_skills_3": ""},
+	{"soft_skills_4": ""},
+	{"soft_skills_5": ""},
+	{"soft_skills_6": ""},
+	{"soft_skills_7": ""}
+	]	
+}
