@@ -31,7 +31,7 @@ class LLM():
         with open("../data/config.json") as file:
             llms = json.load(file)["llms"]
         
-        XAI_API_KEY = llms["grok_api_key"]
+        XAI_API_KEY = llms["api_key"]
         client = OpenAI(
             api_key=XAI_API_KEY,
             base_url="https://api.x.ai/v1",

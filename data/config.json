@@ -1,6 +1,6 @@
 {
 	"llms":{
-		"grok_api_key": "",
+		"api_key": "",
 		"model_name": "grok-3-mini"
 	},
 	"queries":{
