@@ -16,7 +16,7 @@
   - tech_skills: list your technical skills here
   - soft_skills: list your strengths here
 - **config.json**:
-  - grok_api_key: Add your **API KEY** for the LLM you want to use
+  - api_key: Add your **API KEY** for the LLM you want to use
     - Any LLM API and model that is compatible with OpenAI works
   - model_name: Add the name of the model you want to use
     - careful token usage is high
